@@ -73,7 +73,7 @@ export const TextAreaElement = styled.textarea`
   width: 90%;
   margin: 20px;
   color: #f1f5f9;
-  font-size: 16px;
+  font-size: 19px;
   font-style: ${props => props.fontStyle};
   text-decoration: ${props => props.textDecoration};
   font-weight: ${props => props.fontWeight};
